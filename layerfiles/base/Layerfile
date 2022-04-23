@@ -1,6 +1,7 @@
 # RICH DSI Layerfile mod
 # Now updated from vs
 # Now updated from win10 dev vm
+# Now updated from command prompt using notepad++
 
 FROM vm/ubuntu:18.04
 
