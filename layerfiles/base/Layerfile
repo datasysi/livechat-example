@@ -1,4 +1,7 @@
 # RICH DSI Layerfile mod
+# Now updated from vs
+# Now updated from win10 dev vm
+
 FROM vm/ubuntu:18.04
 
 # install docker-ce (from tutorial for ubuntu)
